@@ -14,7 +14,7 @@ $i=0;$j;
 $k=1;
 $err=0;
 $err2=0;
-
+echo "<h2><center>R D TEJA tells</center></h2>";
 #getting values:
 echo "ENTERED VALUES: <br>";
 for($i=1;$i<=9;$i++){
