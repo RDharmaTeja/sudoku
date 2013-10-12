@@ -516,7 +516,7 @@
                 font-size: 12px;
             }
         </style></head><body onload="load()">
-        <h1>Automatic Sudoku Solver</h1>
+        <h1>Sudoku Solver And Generator</h1>
         <div id="board">
             <form id="sud">
                 <input style="color: black;" size="2" maxlength="1" id="0" type="text">
@@ -640,18 +640,7 @@
        
         <br clear="all">
         <div id="about">
-            <h1>about</h1>
-            <p>
-            This is a quickly written automatic sudoku solver.  It is slower than it
-            could be, because your browser does the heavy lifting with a javascript, 
-            and that isn't very fast.  Most puzzles solve in a few seconds, some trickier
-            ones take up to 5 minutes to be solved.  But best of all, you can do more 
-            useful things in the mean time!
-            </p>
-            <p>
-            "Turbo" mode will be faster in some browsers, but also might cause the script
-            to time out.  
-            </p>
+           
         </div>
     
 </body></html>
