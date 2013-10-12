@@ -1,4 +1,4 @@
-SUDUKO
+SUDOKU
 ======
 
-my suduko solving code
+my sudoku solving code
